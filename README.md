@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Elements/Banner.png" alt="Harsha Vardhan Raju - Aspiring Data Scientist" width="100%" />
+</p>
+
 # Hi, I'm Harsha Vardhan Raju 👋
 
 ### Aspiring Data Scientist | Python | SQL | Machine Learning | Statistics | Lifelong Learner 🚀
