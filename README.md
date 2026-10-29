@@ -4,13 +4,6 @@
 
 I'm a data professional with experience in data analytics, focused on solving real-world problems through data-driven approaches.
 
-### 🛠️ Technical Skills
-- **Programming:** Python, SQL
-- **Data Analysis:** Pandas, NumPy, Exploratory Data Analysis
-- **Statistics:** Probability, Statistical Analysis, Hypothesis Testing
-- **Machine Learning:** Supervised & Unsupervised Learning, Feature Engineering, Model Evaluation
-- **Deep Learning:** Fundamentals of Neural Networks and Deep Learning
-
 ## 🧰 Tech stack
 
 <p align="center">
