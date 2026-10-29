@@ -14,6 +14,11 @@
 
 and... "A LIFE LONG LEARNER"
 
+### 🎯 Current Focus
+- Building end-to-end Data Science projects
+- Developing predictive machine learning models
+- Applying statistical methods to real-world datasets
+- Exploring practical applications of AI and Machine Learning
 ## 🧰 Tech stack
 
 <p align="center">
@@ -34,14 +39,6 @@ and... "A LIFE LONG LEARNER"
   <img src="https://img.shields.io/badge/NLP-7C3AED?style=flat-square" alt="NLP">
   <img src="https://img.shields.io/badge/Deep_Learning-6366F1?style=flat-square" alt="Deep Learning">
 </p>
-
-### 🎯 Current Focus
-- Building end-to-end Data Science projects
-- Developing predictive machine learning models
-- Applying statistical methods to real-world datasets
-- Exploring practical applications of AI and Machine Learning
-
-I'm always excited to learn new technologies, solve challenging problems, and collaborate on data-driven projects.
 
 ### 🤝 Let's Connect
 Open to opportunities in Data Science, Machine Learning, and Data Analytics.
